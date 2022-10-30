@@ -45,6 +45,7 @@ var listItem=document.createElement("li");
 
   deleteButton.className="delete";
   deleteButtonImg.src='./remove.svg';
+  deleteButtonImg.alt='delete button';
   deleteButton.appendChild(deleteButtonImg);
 
 
